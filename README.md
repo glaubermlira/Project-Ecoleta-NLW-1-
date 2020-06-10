@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-    Ecoleta: Semana NLW#1  by Rocketseat.
+    Ecoleta: Semana NLW#1
 </h3>
 
 <blockquote align="center">“O progresso é a lei da história da humanidade, e o homem está em constante processo de evolução!”</blockquote>
@@ -40,7 +40,7 @@ Projeto criado durante a semana NLW#1 Starter - promovido pela Rocketseat. O Obj
 
  ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT.
 
 
 <h1 align="center">
