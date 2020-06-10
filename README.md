@@ -44,7 +44,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para
 
 
 <h1 align="center">
-    <img alt="Ecoleta" src="https://raw.githubusercontent.com/glaubermlira/Project-Ecoleta-NLW-1-/bf80434176178a332ec1574c77dd04c1ab262830/public/assets/logo.svg" width="400px" />
+    <img alt="Ecoleta" src="https://github.com/glaubermlira/Project-Ecoleta-NLW-1-/blob/master/public/assets/front-ecoleta.jpg?raw=true" width="800px" />
 </h1>
 
 
